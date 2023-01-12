@@ -14,9 +14,9 @@ function palindrome(str){
 		j--;
 	}
 	if(flag != true) {
-		return true;
-	} else {
 		return false;
+	} else {
+		return true;
 	}
 
 }
